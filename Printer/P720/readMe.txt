@@ -1,0 +1,1 @@
+When printing from CardFive, set the printer type to CX-D80H U1 and print. The second item from the end
